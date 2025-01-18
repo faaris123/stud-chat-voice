@@ -1,1 +1,1 @@
-# badger-chat-voice
+# stud-chat-voice
